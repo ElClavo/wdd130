@@ -1,0 +1,14 @@
+a {
+    color: rgb(216, 27, 27);
+    padding: 25px;
+    font-size: 24p;
+}
+body {
+    background-color: rgba(125, 22, 222, 0.642);
+}
+h1 { 
+    text-align: center;
+}
+img {
+    width: 300px;
+}
