@@ -20,3 +20,18 @@ main section{
 #backround{
     height: 725px;
 }
+body { 
+    background-color: #0f396f;
+}
+header {
+    background-color: #0f396f
+}
+nav a:hover { 
+    background-color: #0f396f
+}
+footer {
+    background-color: #0f396f
+}
+nav a:msg {
+    background-color: #0f396f
+}
