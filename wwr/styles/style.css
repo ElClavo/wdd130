@@ -1,9 +1,10 @@
-content {
+#content {
     max-width: 1600px;
     margin: 0 auto;
 }
 nav a {
     text-align: center;
+    text-decoration: none;
 }
 #hero-msg h1 {
     text-align: center;
@@ -26,11 +27,11 @@ body {
     color: white;
 }
 header {
-    background-color: #0f396f
+    background-color: #0f396f;
     color: #f3ba26;
 }
 nav a:hover { 
-    background-color: #0f396f
+    background-color: #0f396f;
     color: #f3ba26;
 }
 footer {
@@ -41,13 +42,27 @@ footer {
 }
 .book {
     background-color: #0f396f;
+    text-decoration: none;
 }
 .join {
     background-color: #0f396f;
+    text-decoration: none;
 }
 .book:hoover {
     background-color: #0f396f;
 }
 .join:hoover {
     background-color: #0f396f;
+}
+.logo {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+}
+.icon {
+    width: 80px;
+}
+footer a{
+    text-decoration: none;
 }
