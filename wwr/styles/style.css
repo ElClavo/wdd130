@@ -1,37 +1,53 @@
-content{
+content {
     max-width: 1600px;
     margin: 0 auto;
 }
-nav a{
+nav a {
     text-align: center;
 }
-#hero-msg h1{
+#hero-msg h1 {
     text-align: center;
 }
-#hero-msg h4{
+#hero-msg h4 {
     text-align: center;
 }
-.button-box{
+.button-box {
     text-align: center;
 }
-main section{
+main section {
     text-align: center;
 }
-#backround{
+#backround {
     height: 725px;
+    background-color: #0f396f;
 }
 body { 
     background-color: #0f396f;
+    color: white;
 }
 header {
     background-color: #0f396f
+    color: #f3ba26;
 }
 nav a:hover { 
     background-color: #0f396f
+    color: #f3ba26;
 }
 footer {
     background-color: #0f396f
 }
-nav a:msg {
-    background-color: #0f396f
+.msg {
+    background-color: #0f396f;
+}
+.book {
+    background-color: #0f396f;
+}
+.join {
+    background-color: #0f396f;
+}
+.book:hoover {
+    background-color: #0f396f;
+}
+.join:hoover {
+    background-color: #0f396f;
 }
