@@ -36,7 +36,7 @@ nav a:hover {
     color: #f3ba26;
 }
 footer {
-    background-color: #0f396f
+    background-color: #0f396f;
 }
 .msg {
     background-color: #0f396f;
@@ -86,4 +86,14 @@ h4 {
 }
 footer a:hover {
     color: #f3ba26; 
+    text-decoration: underline;
+}
+.icon {
+    width: 80px;
+}
+.logo {
+    width: 80px;
+}
+footer p{
+    font-size: 1.2em;
 }
